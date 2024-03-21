@@ -92,6 +92,8 @@ github.com/cilium/ebpf/internal/sys
 github.com/cilium/ebpf/internal/tracefs
 github.com/cilium/ebpf/internal/unix
 github.com/cilium/ebpf/link
+# github.com/coderbirju/project-checks v1.1.3
+## explicit
 # github.com/containerd/btrfs/v2 v2.0.0
 ## explicit; go 1.19
 github.com/containerd/btrfs/v2

@@ -81,6 +81,7 @@ require (
 	k8s.io/kubelet v0.29.2
 	k8s.io/utils v0.0.0-20230726121419-3b25d923346b
 	tags.cncf.io/container-device-interface v0.6.2
+	github.com/coderbirju/project-checks v1.1.3
 )
 
 require (
